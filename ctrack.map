@@ -1,0 +1,229 @@
+{
+  "DATASETS": [
+    {
+      "DSNAME": "root",
+      "TABLEPATH": "/root",
+      "VARIABLES": [
+        {
+          "NAME": "ordinal_root",
+          "TYPE": "ORDINAL",
+          "PATH": "/root"
+        },
+        {
+          "NAME": "date",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/date"
+        },
+        {
+          "NAME": "state",
+          "TYPE": "CHARACTER",
+          "PATH": "/root/state",
+          "CURRENT_LENGTH": 2
+        },
+        {
+          "NAME": "positive",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/positive"
+        },
+        {
+          "NAME": "negative",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/negative"
+        },
+        {
+          "NAME": "pending",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/pending"
+        },
+        {
+          "NAME": "hospitalizedCurrently",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/hospitalizedCurrently"
+        },
+        {
+          "NAME": "hospitalizedCumulative",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/hospitalizedCumulative"
+        },
+        {
+          "NAME": "inIcuCurrently",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/inIcuCurrently"
+        },
+        {
+          "NAME": "inIcuCumulative",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/inIcuCumulative"
+        },
+        {
+          "NAME": "onVentilatorCurrently",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/onVentilatorCurrently"
+        },
+        {
+          "NAME": "onVentilatorCumulative",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/onVentilatorCumulative"
+        },
+        {
+          "NAME": "recovered",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/recovered"
+        },
+        {
+          "NAME": "dataQualityGrade",
+          "TYPE": "CHARACTER",
+          "PATH": "/root/dataQualityGrade",
+          "CURRENT_LENGTH": 4
+        },
+        {
+          "NAME": "lastUpdateEt",
+          "TYPE": "CHARACTER",
+          "PATH": "/root/lastUpdateEt",
+          "CURRENT_LENGTH": 15
+        },
+        {
+          "NAME": "dateModified",
+          "TYPE": "CHARACTER",
+          "PATH": "/root/dateModified",
+          "CURRENT_LENGTH": 20
+        },
+        {
+          "NAME": "checkTimeEt",
+          "TYPE": "CHARACTER",
+          "PATH": "/root/checkTimeEt",
+          "CURRENT_LENGTH": 11
+        },
+        {
+          "NAME": "death",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/death"
+        },
+        {
+          "NAME": "hospitalized",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/hospitalized"
+        },
+        {
+          "NAME": "dateChecked",
+          "TYPE": "CHARACTER",
+          "PATH": "/root/dateChecked",
+          "CURRENT_LENGTH": 20
+        },
+        {
+          "NAME": "totalTestsViral",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/totalTestsViral"
+        },
+        {
+          "NAME": "positiveTestsViral",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/positiveTestsViral"
+        },
+        {
+          "NAME": "negativeTestsViral",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/negativeTestsViral"
+        },
+        {
+          "NAME": "positiveCasesViral",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/positiveCasesViral"
+        },
+        {
+          "NAME": "deathConfirmed",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/deathConfirmed"
+        },
+        {
+          "NAME": "deathProbable",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/deathProbable"
+        },
+        {
+          "NAME": "fips",
+          "TYPE": "CHARACTER",
+          "PATH": "/root/fips",
+          "CURRENT_LENGTH": 2
+        },
+        {
+          "NAME": "positiveIncrease",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/positiveIncrease"
+        },
+        {
+          "NAME": "negativeIncrease",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/negativeIncrease"
+        },
+        {
+          "NAME": "total",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/total"
+        },
+        {
+          "NAME": "totalTestResults",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/totalTestResults"
+        },
+        {
+          "NAME": "totalTestResultsIncrease",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/totalTestResultsIncrease"
+        },
+        {
+          "NAME": "posNeg",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/posNeg"
+        },
+        {
+          "NAME": "deathIncrease",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/deathIncrease"
+        },
+        {
+          "NAME": "hospitalizedIncrease",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/hospitalizedIncrease"
+        },
+        {
+          "NAME": "hash",
+          "TYPE": "CHARACTER",
+          "PATH": "/root/hash",
+          "CURRENT_LENGTH": 40
+        },
+        {
+          "NAME": "commercialScore",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/commercialScore"
+        },
+        {
+          "NAME": "negativeRegularScore",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/negativeRegularScore"
+        },
+        {
+          "NAME": "negativeScore",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/negativeScore"
+        },
+        {
+          "NAME": "positiveScore",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/positiveScore"
+        },
+        {
+          "NAME": "score",
+          "TYPE": "NUMERIC",
+          "PATH": "/root/score"
+        },
+        {
+          "NAME": "grade",
+          "TYPE": "CHARACTER",
+          "PATH": "/root/grade",
+          "CURRENT_LENGTH": 1
+        }
+      ]
+    }
+  ]
+}
